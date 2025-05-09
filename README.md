@@ -41,7 +41,7 @@ hdai-music-player/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Music-Player.git
+git clone https://github.com/HDAI654/Music-Player.git
 cd Music-Player
 ```
 
